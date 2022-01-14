@@ -1,0 +1,23 @@
+.top{
+    background: #8a2928;
+}
+.lowerTop {
+    background: #c0c0c0;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.lorem2 {
+    background: #6496ec;
+    padding: 30px 0px;
+}
+.green {
+    width: 200px;
+    height: 200px;
+    background: #6cbb68;
+}
+.wierdSilver {
+    width: 200px;
+    height: 200px;
+    background: #8987ac;
+    border-radius: 20px;
+}
