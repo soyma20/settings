@@ -1,4 +1,4 @@
-.body{
+body {
     margin: 0;
 }
 .topA {
@@ -9,7 +9,7 @@
     border: 2px solid #d09733;
     padding: 91px;
     margin: 50px 860px 150px 860px;
-    box-shadow: #474747 20px 20px 0px 0px;
+    box-shadow: #474747 20px 20px 0 0;
 }
 .topB {
     box-sizing: border-box;
@@ -18,8 +18,8 @@
     background: #ffab02;
     border: 2px solid #d09733;
     padding: 91px;
-    margin: 0px 860px 150px 860px;
-    box-shadow: #474747 20px 20px 5px 0px;
+    margin: 0 860px 150px 860px;
+    box-shadow: #474747 20px 20px 5px 0;
 }
 .topC {
     box-sizing: border-box;
@@ -28,7 +28,7 @@
     background: #ffab02;
     border: 2px solid #d09733;
     padding: 91px;
-    margin: 0px 860px 150px 860px;
+    margin: 0 860px 150px 860px;
     box-shadow: #474747 20px 20px 5px 5px;
  }
 .bottomD {
@@ -38,7 +38,7 @@
     background: #ffab02;
     border: 2px solid #d09733;
     padding: 91px;
-    margin: 0px 860px 150px 860px;
+    margin: 0 860px 150px 860px;
     box-shadow: #9f9f9f 20px 20px 5px 5px;
 }
 .bottomE {
@@ -49,8 +49,8 @@
     border: 2px solid #d09733;
     border-radius: 6px;
     padding: 91px;
-    margin: 0px 860px 150px 860px;
-    box-shadow: #474747 20px 20px 5px 0px;
+    margin: 0 860px 150px 860px;
+    box-shadow: #474747 20px 20px 5px 0;
 }
 .bottomF {
     box-sizing: border-box;
@@ -60,6 +60,6 @@
     border: 2px solid #d09733;
     border-radius: 6px;
     padding: 91px;
-    margin: 0px 860px 150px 860px;
-    box-shadow: #9f9f9f 20px 20px 5px 0px;
+    margin: 0 860px 150px 860px;
+    box-shadow: #9f9f9f 20px 20px 5px 0;
 }
