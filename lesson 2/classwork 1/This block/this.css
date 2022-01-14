@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+.grey {
+    background: #818181;
+    box-sizing: inherit;
+    width: 400px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 80px;
+    box-shadow: #d4b890 -35px -30px 45px 15px;
+}
+.pharagraph {
+    box-sizing: inherit;
+    padding-left: 15px;
+    width: 320px;
+    margin-left: 15px;
+    border-left: 5px solid #fe0202;
+}
