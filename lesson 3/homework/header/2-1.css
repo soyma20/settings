@@ -1,0 +1,55 @@
+body {
+    box-sizing: border-box;
+}
+#header {
+    background: #c3fac3;
+    border: 2px solid black;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+#midle {
+    display: flex;
+}
+#menu {
+    background: #fad7dd;
+    width: 70px;
+    height: 250px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin-right: 10px;
+}
+#twoBlocks {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.post {
+    background: #b0f6f6;
+    border: 2px solid black;
+    width: 215px;
+    height: 118px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer {
+    background: #f8d297;
+    border: 2px solid black;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
