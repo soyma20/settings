@@ -1,0 +1,38 @@
+.widgets{
+    height: 200px;
+    width: 450px;
+    background: #7676ff;
+    margin-bottom: 10px;
+    font-size: 40px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.threeWidgets{
+    display: flex;
+    width: 450px;
+    justify-content: space-between;
+
+}
+.big{
+    height: 200px;
+    width: 144px;
+    background: #2c2c8a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.contact{
+    height: 200px;
+    width: 450px;
+    background: #7676ff;
+    margin-top: 10px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

@@ -1,0 +1,57 @@
+.father {
+    box-sizing: border-box;
+    height: 600px;
+    width: 800px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 6px;
+}
+.a{
+    height: 190px;
+    background: silver;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
+.second{
+    display: flex;
+    margin-top: 6px;
+    justify-content: space-between;
+}
+.B{
+    height: 190px;
+    width: 570px;
+    background: silver;
+    margin-bottom: 6px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
+#CDE {
+    display: flex;
+    justify-content: space-between;
+}
+.cde{
+    background: silver;
+    height: 190px;
+    width: 185px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
+.F{
+    width: 206px;
+    height: 386px;
+    background: silver;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
