@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: grey;
+    margin-bottom: 60px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.conteiner{
+    display: flex;
+    width: 1100px;
+    justify-content: space-evenly;
+}
+.board{
+    height: 300px;
+    width: 200px;
+    box-shadow: 2px 2px 2px 2px grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.board>p{
+    text-align: center;
+}
+.board>h3{
+    color: #885a02;
+}
+.pin{
+    background: lightseagreen;
+    height: 40px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.board>i{
+    font-size: 40px;
+    color: grey;
+}
