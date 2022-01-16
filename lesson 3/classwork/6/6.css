@@ -6,7 +6,7 @@
 .hW {
     width: 150px;
     height: 300px;
-    background: blue;
+    background: #9d9dff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,7 +17,7 @@
 .kabobs{
     height: 150px;
     width: 312px;
-    background: blue;
+    background: #9d9dff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +33,7 @@
 .sBs{
     height: 150px;
     width: 96px;
-    background: darkblue;
+    background: #38388a;
     display: flex;
     justify-content: center;
     align-items: center;
