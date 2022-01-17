@@ -1,0 +1,91 @@
+.father{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    color: white;
+}
+.conteiner{
+    width: 1000px;
+}
+.header{
+    height: 100px;
+    background: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    width: 350px;
+}
+.hero{
+    height: 350px;
+    background: #8f8080;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sidebar{
+    height: 450px;
+    background: darkolivegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right{
+    width: 640px;
+}
+.maiCont{
+    height: 640px;
+    background: #fab335;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text>h3{
+    text-align: center;
+}
+.text>p{
+    text-align: center;
+}
+.extra{
+    background: darkgrey;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.img{
+    width: 790px;
+    background: darkgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post{
+    width: 200px;
+    background: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    height: 100px;
+    background: orange;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
