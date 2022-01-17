@@ -1,0 +1,60 @@
+.topWrap{
+    display: flex;
+    justify-content: center;
+}
+.Tw{
+    display: flex;
+    width: 1400px;
+    height: 150px;
+    justify-content: space-evenly;
+    align-items: end;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border: 2px solid grey;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    position: relative;
+    top: 35px;
+    color: orange;
+    background: white;
+}
+.bottomWrap{
+    display: flex;
+    justify-content: center;
+}
+.Bw{
+    width: 1055px;
+    display: flex;
+    justify-content: space-between;
+}
+.boards{
+    width: 300px;
+    height: 350px;
+    border: 2px solid grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.boards>h3{
+    margin-top: 50px;
+}
+.boards>p{
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+    width: 210px;
+}
+.pin{
+    width: 200px;
+    height: 50px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
