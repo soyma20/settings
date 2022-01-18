@@ -1,0 +1,45 @@
+.border-box{
+    box-sizing: border-box;
+}
+.font{
+    font-size: 40px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.padding{
+    padding: 5px;
+}
+.border{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.background{
+    background: darkgrey;
+}
+.flex{
+    display: flex;
+}
+.w800px-h625px{
+    width: 800px;
+    height: 625px;
+}
+.h200px{
+    height: 200px;
+}
+.w786px{
+    width: 786px;
+}
+.h405px{
+    height: 405px;
+}
+.w195px{
+    width: 195px;
+}
+.margin-bottom{
+    margin-bottom: 5px;
+}
+.margin-left{
+    margin-left: 5px;
+}
