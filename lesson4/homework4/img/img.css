@@ -1,0 +1,38 @@
+h3{
+    color: orange;
+}
+i{
+    font-size: 70px;
+    margin: 30px 40px;
+}
+p{
+    color: darkgrey;
+}
+.w500px-h150px{
+    width: 500px;
+    height: 150px;
+    background: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.w1020px-h1000px{
+    width: 1020px;
+    height: 500px;
+    justify-content: space-between;
+}
+.h1000px{
+    height: 1000px;
+}
+.flex{
+    display: flex;
+}
+.backg{
+    background: cornflowerblue;
+}
+.center{
+    justify-content: center;
+    align-items: center;
+}
+.wrap{
+    flex-wrap: wrap;
+}
