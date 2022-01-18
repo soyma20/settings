@@ -1,10 +1,18 @@
 i{
-    font-size: 80px;
+    font-size: 60px;
     color: orange;
 }
 .w800px{
     width: 800px;
     height: 200px;
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: grey;
 }
 .align{
     display: flex;
@@ -34,4 +42,9 @@ i{
 }
 .w305px{
     width: 305px;
+}
+.w120px-h40px{
+    width: 120px;
+    height: 30px;
+    margin: 90px;
 }
