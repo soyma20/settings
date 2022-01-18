@@ -1,0 +1,39 @@
+.backg-light-blue_font-size{
+    background: #246abc;
+    font-size: 30px;
+}
+.font{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.backg-dark-blue_font-size{
+    background: #18467b;
+    font-size: 15px;
+}
+.w500px{
+    width: 500px;
+}
+.h160px{
+    height: 160px;
+}
+.h300px{
+    height: 300px;
+}
+.w245px{
+    width: 245px;
+}
+.w160px{
+    width: 160px;
+}
+.margin-top-10px{
+    margin-top: 10px;
+}
+.margin-bottom-10px{
+    margin-bottom: 10px;
+}
