@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: darkgrey;
+}
+h3{
+    color: #eeab3c;
+}
+i{
+    text-align: center;
+    color: darkgrey;
+    font-size: 50px;
+    margin: 20px;
+}
+p{
+    margin: 10px;
+}
+.w900px{
+    width: 900px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.w200px-h400px{
+    width: 200px;
+    height: 400px;
+}
+.align{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.box-shadow{
+    box-shadow: 2px 3px 2px 2px grey;
+}
+.backG-green{
+    background: #5ddca1;
+}
+.w125px-h40px{
+    width: 125px;
+    height: 40px;
+}
