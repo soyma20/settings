@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+}
+.back-grey{
+    background: grey;
+}
+.back-midgrey{
+    background: darkgrey;
+}
+.back-lightgrey{
+    background: lightgrey;
+}
+.back-white{
+    background: white;
+}
+.circle{
+    border-radius: 50%;
+}
+.bound-corner20px{
+    border-radius: 20px;
+}
+.bound-corner40px{
+    border-radius: 40px;
+}
+.flex{
+    display: flex;
+}
+.coloumn{
+    flex-direction: column;
+}
+.revers-coloumn{
+    flex-direction: column-reverse;
+}
+.row-revers{
+    flex-direction: row-reverse;
+}
+.center-center{
+    justify-content: center;
+    align-items: center;
+}
+.evenly{
+    justify-content: space-evenly;
+}
+.between{
+    justify-content: space-between;
+}
+.align-flex-end{
+    align-items: flex-end;
+}
+.position1{
+    position: relative;
+    right: 100px;
+    bottom: 10px;
+}
+.position2{
+    position: relative;
+    left: 100px;
+
+}
+.h1000px{
+    height: 1000px;
+}
+.h400px{
+    height: 400px;
+}
+.h350px{
+    height: 350px;
+}
+.h200px{
+    height: 200px;
+}
+.h150px{
+    height: 150px;
+}
+.h100px{
+    height: 100px;
+}
+.h80px{
+    height: 80px;
+}
+.h50px{
+    height: 50px;
+}
+.h30px{
+    height: 30px;
+}
+.h20px{
+    height: 20px;
+}
+.w1340px{
+    width: 1340px;
+}
+.w1000px{
+    width: 1000px;
+}
+.w800px{
+    width: 800px;
+}
+.w650px{
+    width: 650px;
+}
+.w500px{
+    width: 500px;
+}
+.w400px{
+    width: 400px;
+}
+.w250px{
+    width: 250px;
+}
+.w200px{
+    width: 200px;
+}
+.w150px{
+    width: 150px;
+}
+.margin-25-100{
+    margin: 25px 100px;
+}
+.margin-top200px{
+    margin-top: 200px;
+}
+.margin-botton15px{
+    margin-bottom: 15px;
+}
+.margin-bottom50px{
+    margin-bottom: 50px;
+}
+.margin-bottom150px{
+    margin-bottom: 180px;
+}
+.margin-bottom40px{
+    margin-bottom: 40px;
+}
+.margin-right40px{
+    margin-right: 40px;
+}
