@@ -1,0 +1,82 @@
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.font{
+    font-size: 35px;
+    color: white;
+}
+.align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.space-beetwen{
+    display: flex;
+    justify-content: space-between;
+}
+.mar-bottom{
+    margin-bottom: 10px;
+}
+.mar-top{
+    margin-top: 10px;
+}
+.w1000px{
+    width: 1000px;
+}
+.h100px{
+    height: 100px;
+}
+.w350px{
+    width: 350px;
+}
+.h350px{
+    height: 350px;
+}
+.w640px{
+    width: 640px;
+}
+.h640px{
+    height: 640px;
+}
+.h200px{
+    height: 200px;
+}
+.w790px{
+    width: 790px;
+}
+.w200px{
+    width: 200px;
+}
+.h450px{
+    height: 450px;
+}
+.h160px{
+    height: 160px;
+}
+.head-backg{
+    background: aqua;
+}
+.hero-backg{
+    background: #8f8080;
+}
+.sidebar-backg{
+    background: darkolivegreen;
+}
+.maiCont-backg{
+    background: #fab335;
+}
+.extra-backg{
+    background: darkgrey;
+}
+.img-backg{
+    background: darkgreen;
+}
+.post-backg{
+    background: lightpink;
+}
+.footer-backg{
+    background: orange;
+}
