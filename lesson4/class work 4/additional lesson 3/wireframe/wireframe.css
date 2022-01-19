@@ -114,6 +114,9 @@ body{
 .w150px{
     width: 150px;
 }
+.w50px{
+    width: 50px;
+}
 .margin-25-100{
     margin: 25px 100px;
 }
@@ -134,4 +137,7 @@ body{
 }
 .margin-right40px{
     margin-right: 40px;
+}
+.padding-top-100px{
+    padding-top: 100px;
 }
