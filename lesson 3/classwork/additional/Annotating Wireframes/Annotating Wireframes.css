@@ -3,7 +3,7 @@ body{
 }
 .first{
     border: 10px solid black;
-    width: 500px;
+    width: 1000px;
     background: white;
 }
 .twoOposit{
@@ -11,20 +11,26 @@ body{
     justify-content: space-between;
     border-bottom: 10px solid black;
 }
-.oposit{
+.oposit1{
     background: darkgrey;
-    width: 80px;
-    height: 20px;
+    width: 160px;
+    height: 40px;
+    margin: 10px;
+}
+.oposit2{
+    background: darkgrey;
+    width: 160px;
+    height: 40px;
     margin: 10px;
 }
 .firstLeft{
-    width: 100px;
-    height: 830px;
+    width: 200px;
+    height: 1420px;
 }
 .sixColoumn{
     background: darkgrey;
-    width: 80px;
-    height: 20px;
+    width: 160px;
+    height: 40px;
     margin: 10px;
 }
 .bottomSection{
@@ -33,7 +39,7 @@ body{
     align-items: center;
 }
 .firstRight{
-    width: 390px;
+    width: 780px;
     border-left: 10px solid black;
 }
 .rightThree{
@@ -43,9 +49,9 @@ body{
     border-bottom: 10px solid black;
 }
 .bigBoard{
-    width: 360px;
+    width: 720px;
     background: darkgrey;
-    height: 170px;
+    height: 340px;
     margin-top: 10px;
     margin-bottom: 10px;
 
@@ -58,39 +64,54 @@ body{
 }
 .ffgrey{
     background: darkgrey;
-    width: 80px;
-    height: 40px;
+    width: 160px;
+    height: 80px;
     margin: 10px;
 }
 .rightFS{
-    width: 390px;
+    width: 7800px;
     display: flex;
 }
 .rightfive{
-    width: 280px;
-}
-.FFG{
+    width: 560px;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 .FFGcubes{
-    width: 110px;
-    height: 60px;
+    width: 220px;
+    height: 120px;
+    margin: 10px;
+    background: darkgrey;
+}
+.FFGcubes-XXL-screen{
+    width: 220px;
+    height: 120px;
     margin: 10px;
     background: darkgrey;
 }
 .rightsix {
-    width: 120px;
+    width: 213px;
     border-left: 10px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 .FSG{
     background: darkgrey;
-    width: 90px;
-    height: 40px;
+    width: 180px;
+    height: 80px;
+    margin: 10px;
+}
+.FSG-6{
+    background: darkgrey;
+    width: 180px;
+    height: 80px;
     margin: 10px;
 }
 .rightSeven{
-    width: 400px;
+    width: 785px;
     border-top: 10px solid black;
     display: flex;
     flex-direction: column;
@@ -98,14 +119,128 @@ body{
     align-items: center;
 }
 .SLongG{
-    width: 350px;
+    width: 700px;
     height: 20px;
     background: darkgrey;
     margin: 10px;
 }
 .SshortG{
-    width: 50px;
-    height: 20px;
+    width: 100px;
+    height: 40px;
     background: darkgrey;
     margin-bottom: 10px;
+}
+@media screen and (max-width: 992px) {
+    .first{
+        width: 784px;
+    }
+    .firstLeft{
+        display: none;
+    }
+    .firstRight{
+        border: 0;
+    }
+    .rightFour{
+       flex-wrap: wrap;
+    }
+    .bigBoard{
+        height: 200px;
+    }
+    .ffgrey{
+        width: 320px;
+        height: 150px;
+    }
+    .rightFS{
+        flex-direction: column;
+        width: 780px;
+    }
+    .rightfive{
+        width: 780px;
+    }
+    .FFGcubes{
+        width: 335px;
+    }
+    .FFGcubes-XXL-screen{
+        display: none;
+    }
+    .rightsix{
+        border-left: 0;
+        border-top: 10px solid black;
+        flex-direction: row;
+        width: 784px;
+    }
+    .FSG{
+        width: 365px;
+    }
+    .FSG-6{
+        height: 260px;
+        width: 365px;
+    }
+}
+@media screen and (max-width: 576px){
+    .first{
+        width: 339px;
+    }
+    .firstLeft{
+        display: none;
+    }
+    .firstRight{
+        border: 0;
+        width: 339px;
+    }
+    .rightFour{
+        flex-wrap: wrap;
+    }
+    .rightThree{
+        width: 339px;
+    }
+    .bigBoard{
+        height: 200px;
+        width: 310px;
+    }
+    .twoOposit{
+        width: 339px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .oposit2{
+        width: 310px;
+    }
+    .rightFour{
+        flex-wrap: wrap;
+        width: 339px;
+    }
+    .ffgrey{
+        width: 140px;
+        height: 100px;
+    }
+    .rightFS{
+        width: 339px;
+    }
+    .rightfive{
+        width: 339px;
+    }
+    .FFGcubes{
+        width: 310px;
+        height: 40px;
+    }
+    .SshortG{
+        height: 25px;
+    }
+    .rightsix{
+        flex-direction: column;
+        width: 339px;
+    }
+    .FSG{
+        width: 310px;
+    }
+    .FSG-6{
+        width: 310px;
+    }
+    .rightSeven{
+        width: 339px;
+    }
+    .SLongG{
+        width: 310px;
+    }
 }
