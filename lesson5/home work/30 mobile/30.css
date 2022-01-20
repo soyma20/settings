@@ -1,0 +1,155 @@
+.first{
+    width: 250px;
+    height: 200px;
+    margin-right: 15px;
+}
+.second{
+    width: 1500px;
+    height: 200px;
+}
+.theerd{
+    width: 250px;
+    height: 590px;
+}
+.fourth{
+    width: 1235px;
+    height: 350px;
+}
+.fifth{
+    width: 250px;
+    height: 350px;
+}
+.sixth{
+    width: 1235px;
+    height: 735px;
+}
+.seven{
+    width: 250px;
+    height: 735px;
+}
+.head{
+    display: flex;
+    margin-bottom: 15px;
+}
+.LEFT-CORNER{
+    width: 250px;
+    height: 500px;
+    position: relative;
+    bottom: 500px;
+}
+.MID-B{
+    width: 1765px;
+    height: 1100px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.MID-B-huge{
+    width: 1500px;
+    height: 1100px;
+}
+.MID-B-huge-top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.MID-B-huge-bootom{
+    display: flex;
+    justify-content: space-between;
+}
+.eight{
+    height: 245px;
+    margin-bottom: 15px;
+}
+.nine{
+    height: 245px;
+}
+.ten{
+    width: 1765px;
+    height: 350px;
+}
+.center-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.font{
+    font-size: 30px;
+    color: indianred;
+}
+.back{
+    background: #686868;
+}
+@media screen and (max-width: 576px) {
+    .first{
+        width: 105px;
+        height: 105px;
+        border-right: 2px solid white;
+        margin-right: 0;
+    }
+    .second{
+        width: 252px;
+        height: 105px;
+    }
+    .MID-B{
+        width: 359px;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: unset;
+    }
+    .head{
+        margin-bottom: 5px;
+    }
+    .theerd{
+        width: 359px;
+        margin-bottom: 5px;
+        height: 150px;
+    }
+    .MID-B-huge{
+        width: 359px;
+        height: 210px;
+    }
+    .MID-B-huge-top{
+        margin-bottom: 5px;
+    }
+    .fourth{
+        width: 280px;
+    }
+    .fifth{
+        width: 74px;
+    }
+    .MID-B-huge-bootom{
+        width: 359px;
+        height: 650px;
+        flex-direction: column;
+    }
+    .sixth{
+        width: 359px;
+        height: 650px;
+        margin-bottom: 5px;
+    }
+    .seven{
+        width: 359px;
+        height: 210px;
+        margin-bottom: 300px;
+    }
+    .LEFT-CORNER{
+        top: 500px;
+        bottom: 0;
+        display: flex;
+        width: 359px;
+        justify-content: space-between;
+    }
+    .eight{
+        width: 178px;
+
+    }
+    .nine{
+        width: 175px;
+    }
+    .ten{
+        width: 359px;
+
+    }
+}
