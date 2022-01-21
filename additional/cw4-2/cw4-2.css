@@ -7,8 +7,14 @@ body{
 .h800px{
     height: 800px;
 }
+.h700px{
+    height: 700px;
+}
 .h400px{
     height: 400px;
+}
+.h100px{
+    height: 100px;
 }
 .w1800px{
     width: 1800px;
@@ -18,6 +24,9 @@ body{
 }
 .margin10px{
     margin: 10px;
+}
+.margin30px{
+    margin: 30px;
 }
 .margin-30px-120px{
     margin: 30px 120px;
@@ -58,6 +67,7 @@ body{
 .border-radius50{
     border-radius: 50px;
 }
+
 .border-radius15{
     border-radius: 15px;
 }
