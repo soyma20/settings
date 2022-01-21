@@ -1,6 +1,9 @@
 body{
     margin: 0;
 }
+.h1500px{
+    height: 1500px;
+}
 .h900px{
     height: 900px;
 }
@@ -13,14 +16,44 @@ body{
 .h400px{
     height: 400px;
 }
+.h300px{
+    height: 300px;
+}
+.h200px{
+    height: 200px;
+}
 .h100px{
     height: 100px;
+}
+.h30px{
+    height: 30px;
+}
+.h10px{
+    height: 10px;
 }
 .w1800px{
     width: 1800px;
 }
+.w900px{
+    width: 900px;
+}
+.w600px{
+    width: 600px;
+}
+.w550px{
+    width: 550px;
+}
+.w500px{
+    width: 500px;
+}
 .w400px{
     width: 400px;
+}
+.w80px{
+    width: 80px;
+}
+.w30px{
+    width: 30px;
 }
 .margin10px{
     margin: 10px;
@@ -31,10 +64,20 @@ body{
 .margin-30px-120px{
     margin: 30px 120px;
 }
+.margin-right{
+    margin-right: 190px;
+}
+.margin-top-100px{
+    margin-top: 100px;
+}
 .center-center{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.right-center{
+    align-items: center;
+    justify-content: flex-end;
 }
 .flex{
     display: flex;
@@ -42,11 +85,47 @@ body{
 .evenly{
     justify-content: space-evenly;
 }
+.between{
+    justify-content: space-between;
+}
 .coloumn{
     flex-direction: column;
 }
+.wrap{
+    flex-wrap: wrap;
+}
+.font-s-blue{
+    font-size: 15px;
+    color: #122d40;
+}
+.font-m-blue{
+    font-size: 35px;
+    color: #122d40;
+}
+.font-m-light{
+    font-size: 35px;
+    color: #ced8e1;
+}
 .font-big-blue{
     font-size: 30px;
+    color: #122d40;
+    text-align: center;
+}
+.font-huge-blue{
+    font-size: 40px;
+    color: #122d40;
+    text-align: center;
+}
+.font-xl-blue{
+    font-size: 60px;
+    color: #122d40;
+}
+.font-xl-light{
+    font-size: 60px;
+    color: #ced8e1;
+}
+.font-xxl-blue{
+    font-size: 60px;
     color: #122d40;
     text-align: center;
 }
@@ -61,6 +140,9 @@ body{
 .back-blue{
     background: #122d40;
 }
+.back-BL{
+    background: #3cc6ea;
+}
 .border-light{
     border: 5px solid #3cc6ea;
 }
@@ -70,6 +152,9 @@ body{
 
 .border-radius15{
     border-radius: 15px;
+}
+.border-radius5{
+    border-radius: 5px;
 }
 .circle{
     border-radius: 50%;
