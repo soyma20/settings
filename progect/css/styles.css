@@ -1,0 +1,20 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.wrapper{
+    width: 1440px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.header{
+    display: flex;
+    row-gap: ;
+}
+.nav_menu{
+    display: flex;
+}
+.nav_buttons{
+    display: flex;
+}
