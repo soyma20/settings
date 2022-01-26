@@ -2,6 +2,7 @@
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
+    font-weight: normal;
 }
 .wrapper{
     width: 1440px;
@@ -24,7 +25,6 @@
     column-gap: 41px;
 }
 .nav_menu_items a{
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     color:  #0B2330;
@@ -40,7 +40,6 @@
     width: 163px;
     height: 54px;
     margin-right: 32px;
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     background: #0B2330;
@@ -63,7 +62,6 @@
 .w-l-content h1{
     width: 436px;
     height: 256px;
-    font-weight: normal;
     font-size: 60px;
     line-height: 64px;
     margin-bottom: 32px;
@@ -71,7 +69,6 @@
 .text{
     width: 435px;
     height: 96px;
-    font-weight: normal;
     font-size: 22px;
     line-height: 32px;
     color: #375361;
@@ -85,7 +82,6 @@
     box-sizing: border-box;
     width: 163px;
     height: 54px;
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     background: #F9C600;
@@ -96,7 +92,6 @@
     box-sizing: border-box;
     width: 163px;
     height: 54px;
-     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     background: #FFFFFF;
@@ -141,7 +136,6 @@
 .thrust{
     width: 547px;
     height: 96px;
-    font-weight: normal;
     font-size: 42px;
     line-height: 48px;
     text-align: center;
@@ -181,7 +175,6 @@
 .bicucle-text h3{
     width: 557px;
     height: 120px;
-    font-weight: normal;
     font-size: 34px;
     line-height: 40px;
     letter-spacing: 0.34px;
@@ -191,7 +184,6 @@
 }.bicucle-text p{
      width: 533px;
      height: 64px;
-     font-weight: normal;
      font-size: 22px;
      line-height: 32px;
      color: #0B2330;
@@ -205,7 +197,6 @@
  .analytics h3{
      width: 711px;
      height: 80px;
-     font-weight: normal;
      margin-bottom: 57px;
      font-size: 34px;
      line-height: 40px;
@@ -214,7 +205,6 @@
      color: #0B2330;
  }
  .analytics img{
-     font-weight: normal;
      font-size: 34px;
      line-height: 40px;
      text-align: center;
@@ -226,7 +216,6 @@
     box-sizing: border-box;
     width: 163px;
     height: 54px;
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     background: #F9C600;
@@ -255,7 +244,6 @@
     right: 116px;
 }
 .purple-text h3{
-    font-weight: normal;
     font-size: 42px;
     line-height: 48px;
     letter-spacing: 0.42px;
@@ -265,7 +253,6 @@
     margin-top: 103px;
 }
 .purple-text p{
-    font-weight: normal;
     font-size: 17px;
     line-height: 28px;
     color: #0B2330;
@@ -278,7 +265,6 @@
     margin-bottom: 226px;
  }
 .litle-sol{
-    font-weight: normal;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 1.4px;
@@ -287,7 +273,6 @@
 }
 .solutions h3{
     width: 593px;
-    font-weight: normal;
     font-size: 42px;
     line-height: 48px;
     letter-spacing: 0.42px;
@@ -295,7 +280,6 @@
     margin-bottom: 26px;
 }
 .bottom-sol{
-    font-weight: normal;
     font-size: 22px;
     line-height: 32px;
     color: #375361;
@@ -329,7 +313,6 @@
 }
 .three-pic-purple p{
     width: 484px;
-    font-weight: normal;
     font-size: 17px;
     line-height: 28px;
     color: #375361;
@@ -339,7 +322,6 @@
     margin-top: 23px;
     margin-bottom: 29px;
     font-size: 34px;
-    font-weight: normal;
     line-height: 40px;
     letter-spacing: 0.34px;
     color: #0B2330;
@@ -347,7 +329,6 @@
 .three-pic-purple button{
     width: 144px;
     height: 54px;
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     border: 1px solid #0B2330;
@@ -358,7 +339,6 @@
 }
 .three-pic-green p{
     width: 484px;
-    font-weight: normal;
     font-size: 17px;
     line-height: 28px;
     color: #375361;
@@ -367,7 +347,6 @@
 .three-pic-green h3{
     margin-top: 23px;
     margin-bottom: 29px;
-    font-weight: normal;
     font-size: 34px;
     line-height: 40px;
     letter-spacing: 0.34px;
@@ -385,7 +364,6 @@
     color: #0B2330;
 }
 .three-pic-yellow p{
-    font-weight: normal;
     width: 484px;
     font-size: 17px;
     line-height: 28px;
@@ -395,7 +373,6 @@
 .three-pic-yellow h3{
     margin-top: 23px;
     margin-bottom: 29px;
-    font-weight: normal;
     font-size: 34px;
     line-height: 40px;
     letter-spacing: 0.34px;
@@ -405,7 +382,6 @@
     width: 144px;
     height: 54px;
     font-size: 16px;
-    font-weight: normal;
     line-height: 24px;
     border: 1px solid #0B2330;
     box-sizing: border-box;
@@ -419,7 +395,6 @@
 .button-conMic{
     width: 228px;
     height: 23px;
-    font-weight: normal;
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 1.2px;
@@ -431,7 +406,6 @@
 .button-video{
     width: 147px;
     height: 23px;
-    font-weight: normal;
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 1.2px;
@@ -444,7 +418,6 @@
 .button-concept{
     width: 152px;
     height: 23px;
-    font-weight: normal;
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 1.2px;
@@ -466,7 +439,6 @@
     margin-top: 96px;
 }
 .features-center>p{
-    font-weight: normal;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 1.4px;
@@ -477,7 +449,6 @@
 .features-center h3{
     width: 1064px;
     height: 128px;
-    font-weight: normal;
     font-size: 60px;
     line-height: 64px;
     letter-spacing: 0.6px;
@@ -501,7 +472,6 @@
     margin-bottom: 25px;
 }
 .cont-targ h4{
-    font-weight: normal;
     font-size: 24px;
     line-height: 32px;
     color: #0B2330;
@@ -539,7 +509,6 @@
     width: 588px;
 }
 .AI h4 {
-    font-weight: normal;
     font-size: 24px;
     line-height: 32px;
     color: #0B2330;
@@ -555,7 +524,6 @@
     width: 588px;
 }
 .templates h4 {
-    font-weight: normal;
     margin-top: 25px;
     font-size: 24px;
     line-height: 32px;
@@ -587,14 +555,12 @@
 .integration-text h3 {
     width: 669px;
     margin-bottom: 37px;
-    font-weight: normal;
     font-size: 34px;
     line-height: 40px;
     letter-spacing: 0.34px;
     color: #0B2330;
 }
 .integration-text h6{
-    font-weight: normal;
     width: 667px;
     font-size: 17px;
     line-height: 28px;
@@ -645,14 +611,12 @@
 .grey-text h3 {
     width: 316px;
     margin-bottom: 27px;
-    font-weight: normal;
     font-size: 24px;
     line-height: 32px;
     color: #0B2330;
 }
 .grey-text h6{
     width: 325px;
-    font-weight: normal;
     font-size: 17px;
     line-height: 28px;
     color: #0B2330;
@@ -680,7 +644,7 @@
     width: 557px;
 }
 .yellow-text h3{
-    font-weight: normal;
+
     font-size: 34px;
     line-height: 40px;
     letter-spacing: 0.34px;
@@ -718,7 +682,6 @@
     align-items: center;
 }
 .launch h3{
-    font-weight: normal;
     font-size: 42px;
     line-height: 48px;
     text-align: center;
@@ -726,7 +689,6 @@
     color: #FFFFFF;
 }
 .launch h4{
-    font-weight: normal;
     font-size: 42px;
     line-height: 48px;
     text-align: center;
@@ -735,7 +697,6 @@
     margin-bottom: 31px;
 }
 .launch p{
-    font-weight: normal;
     font-size: 17px;
     line-height: 28px;
     text-align: center;
@@ -747,7 +708,6 @@
     box-sizing: border-box;
     width: 163px;
     height: 54px;
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     background: #F9C600;
@@ -777,14 +737,12 @@
     margin-right: 109px;
 }
 .yellowH6{
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     color: #F9C600;
     margin-bottom: 13px;
 }
 .greyP{
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     color: #94A0A4;
@@ -808,7 +766,6 @@
     left: 59px;
 }
 .rights p{
-    font-weight: normal;
     font-size: 14px;
     line-height: 20px;
     color: #94A0A4;
