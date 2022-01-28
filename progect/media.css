@@ -251,4 +251,79 @@
     .integration-text button{
         margin: 20px;
     }
+    .case{
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+    .grey-block{
+        height: 326px;
+    }
+    .grey-block,
+    .grey-text,
+    .yellow-block,
+    .yellow-text{
+        width: 371px;
+        margin: 0;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .yellow-block{
+        height: 340px;
+    }
+    .grey-text h3,
+    .grey-text h6,
+    .yellow-text h3,
+    .yellow-text h6,
+    .yellow-text p{
+        text-align: center;
+    }
+    .yellow-text h3{
+        margin-top: 20px;
+    }
+    .guy{
+        margin-top: 35px;
+        width: 360px;
+    }
+    .launch{
+        height: 330px;
+    }
+    .launch-content p{
+        width: 371px;
+    }
+    .launch-content h3,
+    .launch-content h4{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .product,
+    .stories,
+    .company,
+    .resources{
+        display: none;
+    }
+    .grey-line,
+    .lists,
+    .rights{
+        width: 371px;
+        margin: 0;
+    }
+    .lists{
+        height: 80px;
+        align-items: center;
+        justify-content: center;
+    }
+    .lists img{
+        margin: 0;
+    }
+    .rights{
+        position: unset;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footter{
+        height: 150px;
+        align-items: center;
+    }
 }
