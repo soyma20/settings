@@ -89,6 +89,7 @@
         margin: 0;
         height: 100px;
         text-align: center;
+        margin-top: 20px;
     }
     .font-black-34-40-spacing034{
         font-size: 22px;
@@ -152,6 +153,10 @@
     .solutions h3{
         width: 360px;
         margin-left: 10px;
+        text-align: center;
+    }
+    .solutions p{
+        text-align: center;
     }
     .context,
     .video,
