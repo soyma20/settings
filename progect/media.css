@@ -1,4 +1,4 @@
-@media  screen and (max-width: 426px) {
+@media  screen and (max-width: 576px) {
     .wrapper {
         width: 375px;
     }
@@ -330,5 +330,8 @@
     .footter{
         height: 150px;
         align-items: center;
+    }
+    .rights p{
+        margin-bottom: 10px;
     }
 }
