@@ -4,6 +4,76 @@
     padding: 0;
     font-weight: normal;
 }
+.font-greyUP-12-16-space102{
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #61757E;
+}
+.font-grey-14-24-spacing104{
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1.4px;
+    color: #6A7981;
+}
+.font-black16-24{
+    font-size: 16px;
+    line-height: 24px;
+    color:  #0B2330;
+}
+.font-black-16-28{
+    font-size: 16px;
+    line-height: 28px;
+    color: #0B2330;
+}
+.font-black-17-28{
+    font-size: 17px;
+    line-height: 28px;
+    color: #0B2330;
+}
+.font-lightB-17-28{
+    font-size: 17px;
+    line-height: 28px;
+    color: #375361;
+}
+.font-dark-black-22-32{
+    font-size: 22px;
+    line-height: 32px;
+    color: #0B2330;
+}
+.font-lightBlack-22-32{
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+}
+.font-black-24-32{
+    font-size: 24px;
+    line-height: 32px;
+    color: #0B2330;
+}
+.font-black-34-40-spacing034{
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+}
+.font-black-42-48-spacing042{
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+}
+.font-60-64{
+    font-size: 60px;
+    line-height: 64px;
+}
+.font-black-60-64-space06{
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: 0.6px;
+    color: #0B2330;
+}
 .wrapper{
     width: 1440px;
 }
@@ -62,16 +132,11 @@
 .w-l-content h1{
     width: 436px;
     height: 256px;
-    font-size: 60px;
-    line-height: 64px;
     margin-bottom: 32px;
 }
 .text{
     width: 435px;
     height: 96px;
-    font-size: 22px;
-    line-height: 32px;
-    color: #375361;
 }
 .top-bottons{
     display: flex;
@@ -82,20 +147,14 @@
     box-sizing: border-box;
     width: 163px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     background: #F9C600;
-    color: #0B2330;
     border-radius: 4px;
     border: 1px solid #F9C600;
 }.button2{
     box-sizing: border-box;
     width: 163px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     background: #FFFFFF;
-    color: #0B2330;
     border-radius: 4px;
     border: 1px solid #0B2330;
 }
@@ -136,10 +195,7 @@
 .thrust{
     width: 547px;
     height: 96px;
-    font-size: 42px;
-    line-height: 48px;
     text-align: center;
-    letter-spacing: 0.42px;
     margin-bottom: 59px;
 }
 .grid-list{
@@ -175,18 +231,11 @@
 .bicucle-text h3{
     width: 557px;
     height: 120px;
-    font-size: 34px;
-    line-height: 40px;
-    letter-spacing: 0.34px;
-    color: #0B2330;
     margin-top: 114px;
     margin-bottom: 35px;
 }.bicucle-text p{
      width: 533px;
      height: 64px;
-     font-size: 22px;
-     line-height: 32px;
-     color: #0B2330;
 }
  .analytics{
      display: flex;
@@ -198,28 +247,16 @@
      width: 711px;
      height: 80px;
      margin-bottom: 57px;
-     font-size: 34px;
-     line-height: 40px;
      text-align: center;
-     letter-spacing: 0.34px;
-     color: #0B2330;
  }
  .analytics img{
-     font-size: 34px;
-     line-height: 40px;
-     text-align: center;
-     letter-spacing: 0.34px;
-     color: #0B2330;
      margin-bottom: 113px;
  }
 .analytics button {
     box-sizing: border-box;
     width: 163px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     background: #F9C600;
-    color: #0B2330;
     border-radius: 4px;
     border: 1px solid #F9C600;
 }
@@ -244,18 +281,11 @@
     right: 116px;
 }
 .purple-text h3{
-    font-size: 42px;
-    line-height: 48px;
-    letter-spacing: 0.42px;
-    color: #0B2330;
     width: 485px;
     height: 192px;
     margin-top: 103px;
 }
 .purple-text p{
-    font-size: 17px;
-    line-height: 28px;
-    color: #0B2330;
     width: 550px;
     height: 56px;
     margin-top: 39px;
@@ -265,24 +295,11 @@
     margin-bottom: 226px;
  }
 .litle-sol{
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 1.4px;
-    color: #6A7981;
     margin-bottom: 13px;
 }
 .solutions h3{
     width: 593px;
-    font-size: 42px;
-    line-height: 48px;
-    letter-spacing: 0.42px;
-    color: #0B2330;
     margin-bottom: 26px;
-}
-.bottom-sol{
-    font-size: 22px;
-    line-height: 32px;
-    color: #375361;
 }
 .context{
     display: flex;
@@ -313,81 +330,51 @@
 }
 .three-pic-purple p{
     width: 484px;
-    font-size: 17px;
-    line-height: 28px;
-    color: #375361;
     margin-bottom: 64px;
 }
 .three-pic-purple h3{
     margin-top: 23px;
     margin-bottom: 29px;
-    font-size: 34px;
-    line-height: 40px;
-    letter-spacing: 0.34px;
-    color: #0B2330;
 }
 .three-pic-purple button{
     width: 144px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     border: 1px solid #0B2330;
     box-sizing: border-box;
     border-radius: 4px;
     background: #FFFFFF;
-    color: #0B2330;
 }
 .three-pic-green p{
     width: 484px;
-    font-size: 17px;
-    line-height: 28px;
-    color: #375361;
     margin-bottom: 36px;
 }
 .three-pic-green h3{
     margin-top: 23px;
     margin-bottom: 29px;
-    font-size: 34px;
-    line-height: 40px;
-    letter-spacing: 0.34px;
-    color: #0B2330;
 }
 .three-pic-green button{
     width: 144px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     border: 1px solid #0B2330;
     box-sizing: border-box;
     border-radius: 4px;
     background: #FFFFFF;
-    color: #0B2330;
 }
 .three-pic-yellow p{
     width: 484px;
-    font-size: 17px;
-    line-height: 28px;
-    color: #375361;
     margin-bottom: 36px;
 }
 .three-pic-yellow h3{
     margin-top: 23px;
     margin-bottom: 29px;
-    font-size: 34px;
-    line-height: 40px;
-    letter-spacing: 0.34px;
-    color: #0B2330;
 }
 .three-pic-yellow>button{
     width: 144px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     border: 1px solid #0B2330;
     box-sizing: border-box;
     border-radius: 4px;
     background: #FFFFFF;
-    color: #0B2330;
 }
 .three-button{
     margin-top: 18px;
@@ -395,22 +382,12 @@
 .button-conMic{
     width: 228px;
     height: 23px;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 1.2px;
-    text-transform: uppercase;
-    color: #61757E;
     border: 1px solid #61757E;
     border-radius: 4px;
 }
 .button-video{
     width: 147px;
     height: 23px;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 1.2px;
-    text-transform: uppercase;
-    color: #61757E;
     border: 1px solid #61757E;
     border-radius: 4px;
     margin-left: 8px;
@@ -418,12 +395,7 @@
 .button-concept{
     width: 152px;
     height: 23px;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 1.2px;
-    text-transform: uppercase;
     background: #FE9F28;
-    color: #0B2330;
     border: 1px solid #FE9F28;
     border-radius: 4px;
     margin-left: 8px;
@@ -439,20 +411,12 @@
     margin-top: 96px;
 }
 .features-center>p{
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 1.4px;
-    color: #6A7981;
     margin-bottom: 10px;
     text-transform: uppercase;
 }
 .features-center h3{
     width: 1064px;
     height: 128px;
-    font-size: 60px;
-    line-height: 64px;
-    letter-spacing: 0.6px;
-    color: #0B2330;
     margin-bottom: 120px;
 }
 .feat-img{
@@ -471,16 +435,8 @@
     margin-top: 25px;
     margin-bottom: 25px;
 }
-.cont-targ h4{
-    font-size: 24px;
-    line-height: 32px;
-    color: #0B2330;
-}
 .top-feature p{
     width: 563px;
-    font-size: 17px;
-    line-height: 28px;
-    color: #375361;
     margin-bottom: 35px;
 }
 .botton-arow{
@@ -489,12 +445,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-.botton-arow h5{
-    font-size: 16px;
-    line-height: 28px;
-    color: #0B2330;
-    font-weight: normal;
 }
 .mid-feature{
     height: 80px;
@@ -508,11 +458,6 @@
     justify-content: space-between;
     width: 588px;
 }
-.AI h4 {
-    font-size: 24px;
-    line-height: 32px;
-    color: #0B2330;
-}
 .bott-feature{
     border-bottom: 2px solid #C3CACD;
     height: 84px;
@@ -525,9 +470,6 @@
 }
 .templates h4 {
     margin-top: 25px;
-    font-size: 24px;
-    line-height: 32px;
-    color: #0B2330;
 }
 .templates img{
     margin-top: 25px;
@@ -546,35 +488,21 @@
     margin-bottom: 264px;
 }
 .integration-text p{
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 1.4px;
-    color: #6A7981;
     margin-bottom: 15px;
 }
 .integration-text h3 {
     width: 669px;
     margin-bottom: 37px;
-    font-size: 34px;
-    line-height: 40px;
-    letter-spacing: 0.34px;
-    color: #0B2330;
 }
 .integration-text h6{
     width: 667px;
-    font-size: 17px;
-    line-height: 28px;
-    color: #375361;
 }
 .integration-text button {
     margin-top: 36px;
     box-sizing: border-box;
     width: 208px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     background: #F9C600;
-    color: #0B2330;
     border-radius: 4px;
     border: 1px solid #F9C600;
 }
@@ -602,34 +530,21 @@
     margin-left: 116px;
 }
 .grey-text p{
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 1.4px;
-    color: #6A7981;
     margin-bottom: 17px;
 }
 .grey-text h3 {
     width: 316px;
     margin-bottom: 27px;
-    font-size: 24px;
-    line-height: 32px;
-    color: #0B2330;
 }
 .grey-text h6{
     width: 325px;
-    font-size: 17px;
-    line-height: 28px;
-    color: #0B2330;
 }
 .grey-text button {
     margin-top: 36px;
     box-sizing: border-box;
     width: 140px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     background: #F2EDE7;
-    color: #000000;
     border-radius: 4px;
     border: 1px solid #0B2330;
 }
@@ -643,13 +558,6 @@
     margin-top: 78px;
     width: 557px;
 }
-.yellow-text h3{
-
-    font-size: 34px;
-    line-height: 40px;
-    letter-spacing: 0.34px;
-    color: #000000;
-}
 .guy{
     margin-top: 81px;
     display: flex;
@@ -657,16 +565,6 @@
 .guy-disc{
     margin-left: 24px;
     margin-top: 24px;
-}
-.guy-disc h6{
-    font-size: 16px;
-    line-height: 24px;
-    color: #0B2330
-}
-.guy-disc p{
-    font-size: 17px;
-    line-height: 28px;
-    color: #2F3F48;
 }
 .launch{
     height: 423px;
@@ -708,10 +606,7 @@
     box-sizing: border-box;
     width: 163px;
     height: 54px;
-    font-size: 16px;
-    line-height: 24px;
     background: #F9C600;
-    color: #0B2330;
     border-radius: 4px;
     border: 1px solid #F9C600;
 }
